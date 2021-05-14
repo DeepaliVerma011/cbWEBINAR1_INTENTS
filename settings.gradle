@@ -1,0 +1,2 @@
+rootProject.name = "CalculatorUsingIntents"
+include ':app'
